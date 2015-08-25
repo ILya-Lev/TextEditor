@@ -1,0 +1,13 @@
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\TextEditor.DAL.dll
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\TextEditor.DAL.pdb
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\EntityFramework.dll
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\EntityFramework.SqlServer.dll
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\EntityFramework.xml
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\bin\Debug\EntityFramework.SqlServer.xml
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.dll
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.pdb
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.Migrations.Initial.resources
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.csproj.GenerateResource.Cache
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.Migrations.FileNameAdded.resources
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.csprojResolveAssemblyReference.cache
+L:\programming\study\DevArt\TextEditor\TextEditor.DAL\obj\Debug\TextEditor.DAL.Migrations.CompressionAdded.resources
